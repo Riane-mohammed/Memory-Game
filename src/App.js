@@ -1,13 +1,12 @@
-import './App.css';
-import Comp1 from './components/comp1';
+import './App.css'
 
 function App() {
   return (
-    <>
-      <h1>maroc</h1>
-      <Comp1 />
-    </>
+    <div className="App">
+      <h1>Magic Match</h1>
+      <button>New Game</button>
+    </div>
   );
 }
 
-export default App;
+export default App
