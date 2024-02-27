@@ -1,10 +1,11 @@
 import './App.css';
+import Comp1 from './components/comp1';
 
 function App() {
   return (
     <>
       <h1>maroc</h1>
-      <p>safi</p>
+      <Comp1 />
     </>
   );
 }
