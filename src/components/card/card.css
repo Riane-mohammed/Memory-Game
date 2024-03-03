@@ -1,0 +1,13 @@
+.cardGame{
+    position: relative;
+}
+
+.cardGame img.front{
+    position: absolute;
+}
+
+.cardGame img{
+    border: 3px solid white ;
+    border-radius: 20px;
+    width: 140px;
+}
